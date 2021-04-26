@@ -76,3 +76,4 @@ def covariance(xs: List[float], ys: List[float]) -> float:
 
 
 assert 22.42 < covariance(num_friends, daily_minutes) < 22.43
+
